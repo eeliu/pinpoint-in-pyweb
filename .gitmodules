@@ -1,0 +1,3 @@
+[submodule "webpy-examples"]
+	path = webpy-examples
+	url = https://github.com/webpy/webpy-examples.git
